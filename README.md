@@ -18,7 +18,7 @@ This project allows you to dynamically change the background color of a webpage 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/color-changer-js.git
+   git clone https://github.com/manjeetbarman/Color-Changing-Js-Project.git
    ```
 
 2. **Open the project in your web browser:**
